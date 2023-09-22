@@ -2,3 +2,8 @@
 Github
 
 Hello world!
+## Getting started
+
+*Italics*
+
+**Bold**
