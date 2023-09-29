@@ -3,7 +3,7 @@ Github
 
 Hello world!
 
-## Getting started
+## Week 8 Quiz
 
 Part 1: Imaging Technique Inspiration
 
